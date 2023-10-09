@@ -1,0 +1,12 @@
+{
+    "recipes": {
+        
+    },
+    "branch": "main",
+    "is_contrib": true,
+    "_links": {
+        "repository": "github.com/feuertelegraph/feuertelegraph-flex-recipes",
+        "origin_template": "{package}:{version}@github.com/feuertelegraph/feuertelegraph-flex-recipes:main",
+        "recipe_template": "https://api.github.com/repos/feuertelegraph/feuertelegraph-flex-recipes/contents/{package_dotted}.{version}.json"
+    }
+}
